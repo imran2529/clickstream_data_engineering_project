@@ -1,4 +1,5 @@
 **Clickstream Data Pipeline using AWS & Terraform**
+
 **Overview:**
 This project implements an end-to-end clickstream data pipeline on AWS, designed using the medallion architecture (Bronze → Silver → Gold) to enable scalable, reliable, and analytics-ready data processing. The pipeline ingests raw clickstream data, performs multi-stage transformations using Spark, and delivers curated datasets for downstream analytics and dashboarding.
 
